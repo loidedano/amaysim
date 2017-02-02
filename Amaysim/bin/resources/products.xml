@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product code="ult_small">
+		<name>Unlimited 1GB</name>
+		<price>24.90</price>
+	</product>
+	
+	<product code="ult_medium">
+		<name>Unlimited 2GB</name>
+		<price>29.90</price>
+	</product>
+	
+	<product code="ult_large">
+		<name>Unlimited 5GB</name>
+		<price>44.90</price>
+	</product>
+	
+	<product code="1gb">
+		<name>1 GB Data-pack</name>
+		<price>9.90</price>
+	</product>
+
+</products>
